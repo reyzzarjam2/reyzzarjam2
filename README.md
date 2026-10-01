@@ -405,7 +405,7 @@ Open Roblox and join any game where you want to use the script.
 Open your executor, paste the following into its script box:
 
 ```lua
-loadstring(game:HttpGet("https://reyzzhub.netlify.app/universal/main.lua"))()
+loadstring(game:HttpGet("https://reyzzhub.netlify.app/main.lua"))()
 ```
 
 **Step 4 — Execute.**
