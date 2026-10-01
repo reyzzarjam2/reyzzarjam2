@@ -114,7 +114,7 @@ This repository is not just a code dump. It is a live showcase of how a personal
 ### ReyzzHub Universal
 
 <p align="center">
-  <img src="https://reyzzhub.wordpress.com/wp-content/uploads/2026/02/reyzzhub-panel-activision.png" alt="ReyzzHub Universal - Main UI" width="90%">
+  <img src="https://i.imgur.com/OTFf8aW.jpeg" alt="ReyzzHub Universal - Main UI" width="90%">
 </p>
 
 <p align="center">
