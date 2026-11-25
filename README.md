@@ -451,14 +451,9 @@ Features:
 
 | Endpoint | Purpose |
 | --- | --- |
-| `reyzzhub.netlify.app/universal/main.lua` | Main loader |
-| `reyzzhub.netlify.app/.netlify/functions/log` | Discord webhook proxy |
-| `reyzzhub.netlify.app/black/list.json` | Blacklist database |
-| `reyzzhub.netlify.app/api/list-staff.json` | Staff/admin database |
+| `reyzzhub.netlify.app/main.lua` | Main loader |
 | `reyzzhub.netlify.app/api/config.json` | Animation database |
 | `reyzzhub.netlify.app/api/anti-afk.lua` | Anti-AFK injection |
-| Google Apps Script | Google Sheets visitor logger |
-| Discord Webhook | Execution logger |
 
 ### Executors
 
